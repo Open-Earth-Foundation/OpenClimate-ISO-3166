@@ -103,3 +103,6 @@ dist
 # TernJS port file
 .tern-port
 .DS_Store
+
+# ISO 3166-2 data not allowed to be shared
+subdivisions
