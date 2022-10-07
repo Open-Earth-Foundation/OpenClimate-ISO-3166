@@ -47,6 +47,14 @@ def generate_actors(subdivisions, subdivision_names):
         })
     return actors
 
+def language_of(subdivision_name):
+    if subdivision_name['language'] != '':
+        return subdivision_name['language']
+    elif subdivision_name['language_alpha_3_code'] != '':
+        return subdivision_name['language_alpha_3_code']
+    else:
+        return 'und'
+
 def generate_names(subdivision_names):
 
     actor_names = []
@@ -55,7 +63,7 @@ def generate_names(subdivision_names):
         actor_names.append({
             "actor_id": subdivision_name['subdivision_code'],
             "name": subdivision_name['subdivision_name'],
-            "language": subdivision_name['language'],
+            "language": language_of(subdivision_name),
             "preferred": 1,
             "datasource_id": DATASOURCE['datasource_id']
         })
@@ -63,7 +71,7 @@ def generate_names(subdivision_names):
             actor_names.append({
                 "actor_id": subdivision_name['subdivision_code'],
                 "name": subdivision_name['subdivision_name_local_variation'],
-                "language": subdivision_name['language'],
+                "language": language_of(subdivision_name),
                 "preferred": 0,
                 "datasource_id": DATASOURCE['datasource_id']
             })

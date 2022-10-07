@@ -524,13 +524,13 @@ BO-S,Santa Cruz,es,1,ISO 3166-2:2020
 BO-T,Tarija,es,1,ISO 3166-2:2020
 BQ-BO,Bonaire,en,1,ISO 3166-2:2020
 BQ-BO,Bonaire,nl,1,ISO 3166-2:2020
-BQ-BO,Boneiru,,1,ISO 3166-2:2020
+BQ-BO,Boneiru,pap,1,ISO 3166-2:2020
 BQ-SA,Saba,en,1,ISO 3166-2:2020
 BQ-SA,Saba,nl,1,ISO 3166-2:2020
-BQ-SA,Saba,,1,ISO 3166-2:2020
+BQ-SA,Saba,pap,1,ISO 3166-2:2020
 BQ-SE,Sint Eustatius,en,1,ISO 3166-2:2020
 BQ-SE,Sint Eustatius,nl,1,ISO 3166-2:2020
-BQ-SE,Sint Eustatius,,1,ISO 3166-2:2020
+BQ-SE,Sint Eustatius,pap,1,ISO 3166-2:2020
 BR-AC,Acre,pt,1,ISO 3166-2:2020
 BR-AL,Alagoas,pt,1,ISO 3166-2:2020
 BR-AM,Amazonas,pt,1,ISO 3166-2:2020
@@ -2828,15 +2828,15 @@ KH-9,Kaôh Kŏng,km,1,ISO 3166-2:2020
 KI-G,Gilbert Islands,en,1,ISO 3166-2:2020
 KI-L,Line Islands,en,1,ISO 3166-2:2020
 KI-P,Phoenix Islands,en,1,ISO 3166-2:2020
-KM-A,Ndzuwani,,1,ISO 3166-2:2020
+KM-A,Ndzuwani,002,1,ISO 3166-2:2020
 KM-A,Anjwān,ar,1,ISO 3166-2:2020
 KM-A,Andjouân,ar,1,ISO 3166-2:2020
 KM-A,Anjouan,fr,1,ISO 3166-2:2020
-KM-G,Ngazidja,,1,ISO 3166-2:2020
+KM-G,Ngazidja,002,1,ISO 3166-2:2020
 KM-G,Anjazījah,ar,1,ISO 3166-2:2020
 KM-G,Andjazîdja,ar,1,ISO 3166-2:2020
 KM-G,Grande Comore,fr,1,ISO 3166-2:2020
-KM-M,Mwali,,1,ISO 3166-2:2020
+KM-M,Mwali,002,1,ISO 3166-2:2020
 KM-M,Mūhīlī,ar,1,ISO 3166-2:2020
 KM-M,Moûhîlî,ar,1,ISO 3166-2:2020
 KM-M,Mohéli,fr,1,ISO 3166-2:2020
@@ -3533,30 +3533,30 @@ MD-SN,"Stînga Nistrului, unitatea teritorială din",ro,1,ISO 3166-2:2020
 MD-BA,Bălți,ro,1,ISO 3166-2:2020
 MD-BD,Bender [Tighina],ro,1,ISO 3166-2:2020
 MD-CU,Chișinău,ro,1,ISO 3166-2:2020
-ME-01,Andrijevica,,1,ISO 3166-2:2020
-ME-02,Bar,,1,ISO 3166-2:2020
-ME-03,Berane,,1,ISO 3166-2:2020
-ME-04,Bijelo Polje,,1,ISO 3166-2:2020
-ME-05,Budva,,1,ISO 3166-2:2020
-ME-06,Cetinje,,1,ISO 3166-2:2020
-ME-07,Danilovgrad,,1,ISO 3166-2:2020
-ME-08,Herceg-Novi,,1,ISO 3166-2:2020
-ME-09,Kolašin,,1,ISO 3166-2:2020
-ME-10,Kotor,,1,ISO 3166-2:2020
-ME-11,Mojkovac,,1,ISO 3166-2:2020
-ME-12,Nikšić,,1,ISO 3166-2:2020
-ME-13,Plav,,1,ISO 3166-2:2020
-ME-14,Pljevlja,,1,ISO 3166-2:2020
-ME-15,Plužine,,1,ISO 3166-2:2020
-ME-16,Podgorica,,1,ISO 3166-2:2020
-ME-17,Rožaje,,1,ISO 3166-2:2020
-ME-18,Šavnik,,1,ISO 3166-2:2020
-ME-19,Tivat,,1,ISO 3166-2:2020
-ME-20,Ulcinj,,1,ISO 3166-2:2020
-ME-21,Žabljak,,1,ISO 3166-2:2020
-ME-22,Gusinje,,1,ISO 3166-2:2020
-ME-23,Petnjica,,1,ISO 3166-2:2020
-ME-24,Tuzi,,1,ISO 3166-2:2020
+ME-01,Andrijevica,cnr,1,ISO 3166-2:2020
+ME-02,Bar,cnr,1,ISO 3166-2:2020
+ME-03,Berane,cnr,1,ISO 3166-2:2020
+ME-04,Bijelo Polje,cnr,1,ISO 3166-2:2020
+ME-05,Budva,cnr,1,ISO 3166-2:2020
+ME-06,Cetinje,cnr,1,ISO 3166-2:2020
+ME-07,Danilovgrad,cnr,1,ISO 3166-2:2020
+ME-08,Herceg-Novi,cnr,1,ISO 3166-2:2020
+ME-09,Kolašin,cnr,1,ISO 3166-2:2020
+ME-10,Kotor,cnr,1,ISO 3166-2:2020
+ME-11,Mojkovac,cnr,1,ISO 3166-2:2020
+ME-12,Nikšić,cnr,1,ISO 3166-2:2020
+ME-13,Plav,cnr,1,ISO 3166-2:2020
+ME-14,Pljevlja,cnr,1,ISO 3166-2:2020
+ME-15,Plužine,cnr,1,ISO 3166-2:2020
+ME-16,Podgorica,cnr,1,ISO 3166-2:2020
+ME-17,Rožaje,cnr,1,ISO 3166-2:2020
+ME-18,Šavnik,cnr,1,ISO 3166-2:2020
+ME-19,Tivat,cnr,1,ISO 3166-2:2020
+ME-20,Ulcinj,cnr,1,ISO 3166-2:2020
+ME-21,Žabljak,cnr,1,ISO 3166-2:2020
+ME-22,Gusinje,cnr,1,ISO 3166-2:2020
+ME-23,Petnjica,cnr,1,ISO 3166-2:2020
+ME-24,Tuzi,cnr,1,ISO 3166-2:2020
 MG-A,Toamasina,mg,1,ISO 3166-2:2020
 MG-D,Antsiranana,mg,1,ISO 3166-2:2020
 MG-F,Fianarantsoa,mg,1,ISO 3166-2:2020
@@ -4212,8 +4212,8 @@ NO-46,Vestland,nn,1,ISO 3166-2:2020
 NO-46,Vestland,nb,1,ISO 3166-2:2020
 NO-50,Trøndelag,nn,1,ISO 3166-2:2020
 NO-50,Trøndelag,nb,1,ISO 3166-2:2020
-NO-50,Trööndelage,,1,ISO 3166-2:2020
-NO-54,Tromssan ja Finmarkun,,1,ISO 3166-2:2020
+NO-50,Trööndelage,sma,1,ISO 3166-2:2020
+NO-54,Tromssan ja Finmarkun,fkv,1,ISO 3166-2:2020
 NO-54,Troms og Finnmark,nn,1,ISO 3166-2:2020
 NO-54,Troms og Finnmark,nb,1,ISO 3166-2:2020
 NO-54,Romssa ja Finnmárkku,se,1,ISO 3166-2:2020
@@ -4740,37 +4740,37 @@ PT-16,Viana do Castelo,pt,1,ISO 3166-2:2020
 PT-17,Vila Real,pt,1,ISO 3166-2:2020
 PT-18,Viseu,pt,1,ISO 3166-2:2020
 PW-002,Aimeliik,en,1,ISO 3166-2:2020
-PW-002,Aimeliik,,1,ISO 3166-2:2020
+PW-002,Aimeliik,pau,1,ISO 3166-2:2020
 PW-004,Airai,en,1,ISO 3166-2:2020
-PW-004,Airai,,1,ISO 3166-2:2020
+PW-004,Airai,pau,1,ISO 3166-2:2020
 PW-010,Angaur,en,1,ISO 3166-2:2020
-PW-010,Angaur,,1,ISO 3166-2:2020
+PW-010,Angaur,pau,1,ISO 3166-2:2020
 PW-050,Hatohobei,en,1,ISO 3166-2:2020
-PW-050,Hatohobei,,1,ISO 3166-2:2020
+PW-050,Hatohobei,pau,1,ISO 3166-2:2020
 PW-100,Kayangel,en,1,ISO 3166-2:2020
-PW-100,Kayangel,,1,ISO 3166-2:2020
+PW-100,Kayangel,pau,1,ISO 3166-2:2020
 PW-150,Koror,en,1,ISO 3166-2:2020
-PW-150,Koror,,1,ISO 3166-2:2020
+PW-150,Koror,pau,1,ISO 3166-2:2020
 PW-212,Melekeok,en,1,ISO 3166-2:2020
-PW-212,Melekeok,,1,ISO 3166-2:2020
+PW-212,Melekeok,pau,1,ISO 3166-2:2020
 PW-214,Ngaraard,en,1,ISO 3166-2:2020
-PW-214,Ngaraard,,1,ISO 3166-2:2020
+PW-214,Ngaraard,pau,1,ISO 3166-2:2020
 PW-218,Ngarchelong,en,1,ISO 3166-2:2020
-PW-218,Ngarchelong,,1,ISO 3166-2:2020
+PW-218,Ngarchelong,pau,1,ISO 3166-2:2020
 PW-222,Ngardmau,en,1,ISO 3166-2:2020
-PW-222,Ngardmau,,1,ISO 3166-2:2020
+PW-222,Ngardmau,pau,1,ISO 3166-2:2020
 PW-224,Ngatpang,en,1,ISO 3166-2:2020
-PW-224,Ngatpang,,1,ISO 3166-2:2020
+PW-224,Ngatpang,pau,1,ISO 3166-2:2020
 PW-226,Ngchesar,en,1,ISO 3166-2:2020
-PW-226,Ngchesar,,1,ISO 3166-2:2020
+PW-226,Ngchesar,pau,1,ISO 3166-2:2020
 PW-227,Ngeremlengui,en,1,ISO 3166-2:2020
-PW-227,Ngeremlengui,,1,ISO 3166-2:2020
+PW-227,Ngeremlengui,pau,1,ISO 3166-2:2020
 PW-228,Ngiwal,en,1,ISO 3166-2:2020
-PW-228,Ngiwal,,1,ISO 3166-2:2020
+PW-228,Ngiwal,pau,1,ISO 3166-2:2020
 PW-350,Peleliu,en,1,ISO 3166-2:2020
-PW-350,Peleliu,,1,ISO 3166-2:2020
+PW-350,Peleliu,pau,1,ISO 3166-2:2020
 PW-370,Sonsorol,en,1,ISO 3166-2:2020
-PW-370,Sonsorol,,1,ISO 3166-2:2020
+PW-370,Sonsorol,pau,1,ISO 3166-2:2020
 PY-1,Concepción,es,1,ISO 3166-2:2020
 PY-10,Alto Paraná,es,1,ISO 3166-2:2020
 PY-11,Central,es,1,ISO 3166-2:2020
@@ -5083,79 +5083,79 @@ SB-RB,Rennell and Bellona,en,1,ISO 3166-2:2020
 SB-TE,Temotu,en,1,ISO 3166-2:2020
 SB-WE,Western,en,1,ISO 3166-2:2020
 SB-CT,Capital Territory (Honiara),en,1,ISO 3166-2:2020
-SC-01,Ans o Pen,,1,ISO 3166-2:2020
+SC-01,Ans o Pen,crs,1,ISO 3166-2:2020
 SC-01,Anse aux Pins,en,1,ISO 3166-2:2020
 SC-01,Anse aux Pins,fr,1,ISO 3166-2:2020
-SC-02,Ans Bwalo,,1,ISO 3166-2:2020
+SC-02,Ans Bwalo,crs,1,ISO 3166-2:2020
 SC-02,Anse Boileau,en,1,ISO 3166-2:2020
 SC-02,Anse Boileau,fr,1,ISO 3166-2:2020
-SC-03,Ans Etwal,,1,ISO 3166-2:2020
+SC-03,Ans Etwal,crs,1,ISO 3166-2:2020
 SC-03,Anse Etoile,en,1,ISO 3166-2:2020
 SC-03,Anse Étoile,fr,1,ISO 3166-2:2020
-SC-04,O Kap,,1,ISO 3166-2:2020
+SC-04,O Kap,crs,1,ISO 3166-2:2020
 SC-04,Au Cap,en,1,ISO 3166-2:2020
 SC-04,Au Cap,fr,1,ISO 3166-2:2020
-SC-05,Ans Royal,,1,ISO 3166-2:2020
+SC-05,Ans Royal,crs,1,ISO 3166-2:2020
 SC-05,Anse Royale,en,1,ISO 3166-2:2020
 SC-05,Anse Royale,fr,1,ISO 3166-2:2020
-SC-06,Be Lazar,,1,ISO 3166-2:2020
+SC-06,Be Lazar,crs,1,ISO 3166-2:2020
 SC-06,Baie Lazare,en,1,ISO 3166-2:2020
 SC-06,Baie Lazare,fr,1,ISO 3166-2:2020
-SC-07,Be Sent Ann,,1,ISO 3166-2:2020
+SC-07,Be Sent Ann,crs,1,ISO 3166-2:2020
 SC-07,Baie Sainte Anne,en,1,ISO 3166-2:2020
 SC-07,Baie Sainte-Anne,fr,1,ISO 3166-2:2020
-SC-08,Bovalon,,1,ISO 3166-2:2020
+SC-08,Bovalon,crs,1,ISO 3166-2:2020
 SC-08,Beau Vallon,en,1,ISO 3166-2:2020
 SC-08,Beau Vallon,fr,1,ISO 3166-2:2020
-SC-09,Beler,,1,ISO 3166-2:2020
+SC-09,Beler,crs,1,ISO 3166-2:2020
 SC-09,Bel Air,en,1,ISO 3166-2:2020
 SC-09,Bel Air,fr,1,ISO 3166-2:2020
-SC-10,Belonm,,1,ISO 3166-2:2020
+SC-10,Belonm,crs,1,ISO 3166-2:2020
 SC-10,Bel Ombre,en,1,ISO 3166-2:2020
 SC-10,Bel Ombre,fr,1,ISO 3166-2:2020
-SC-11,Kaskad,,1,ISO 3166-2:2020
+SC-11,Kaskad,crs,1,ISO 3166-2:2020
 SC-11,Cascade,en,1,ISO 3166-2:2020
 SC-11,Cascade,fr,1,ISO 3166-2:2020
-SC-12,Glasi,,1,ISO 3166-2:2020
+SC-12,Glasi,crs,1,ISO 3166-2:2020
 SC-12,Glacis,en,1,ISO 3166-2:2020
 SC-12,Glacis,fr,1,ISO 3166-2:2020
-SC-13,Grand Ans Mae,,1,ISO 3166-2:2020
+SC-13,Grand Ans Mae,crs,1,ISO 3166-2:2020
 SC-13,Grand Anse Mahe,en,1,ISO 3166-2:2020
 SC-13,Grand'Anse Mahé,fr,1,ISO 3166-2:2020
-SC-14,Grand Ans Pralen,,1,ISO 3166-2:2020
+SC-14,Grand Ans Pralen,crs,1,ISO 3166-2:2020
 SC-14,Grand Anse Praslin,en,1,ISO 3166-2:2020
 SC-14,Grand'Anse Praslin,fr,1,ISO 3166-2:2020
-SC-15,Ladig,,1,ISO 3166-2:2020
+SC-15,Ladig,crs,1,ISO 3166-2:2020
 SC-15,La Digue,en,1,ISO 3166-2:2020
 SC-15,La Digue,fr,1,ISO 3166-2:2020
-SC-16,Larivyer Anglez,,1,ISO 3166-2:2020
+SC-16,Larivyer Anglez,crs,1,ISO 3166-2:2020
 SC-16,English River,en,1,ISO 3166-2:2020
 SC-16,La Rivière Anglaise,fr,1,ISO 3166-2:2020
-SC-17,Mon Bikston,,1,ISO 3166-2:2020
+SC-17,Mon Bikston,crs,1,ISO 3166-2:2020
 SC-17,Mont Buxton,en,1,ISO 3166-2:2020
 SC-17,Mont Buxton,fr,1,ISO 3166-2:2020
-SC-18,Mon Fleri,,1,ISO 3166-2:2020
+SC-18,Mon Fleri,crs,1,ISO 3166-2:2020
 SC-18,Mont Fleuri,en,1,ISO 3166-2:2020
 SC-18,Mont Fleuri,fr,1,ISO 3166-2:2020
-SC-19,Plezans,,1,ISO 3166-2:2020
+SC-19,Plezans,crs,1,ISO 3166-2:2020
 SC-19,Plaisance,en,1,ISO 3166-2:2020
 SC-19,Plaisance,fr,1,ISO 3166-2:2020
-SC-20,Pwent Lari,,1,ISO 3166-2:2020
+SC-20,Pwent Lari,crs,1,ISO 3166-2:2020
 SC-20,Pointe Larue,en,1,ISO 3166-2:2020
 SC-20,Pointe La Rue,fr,1,ISO 3166-2:2020
-SC-21,Porglo,,1,ISO 3166-2:2020
+SC-21,Porglo,crs,1,ISO 3166-2:2020
 SC-21,Port Glaud,en,1,ISO 3166-2:2020
 SC-21,Port Glaud,fr,1,ISO 3166-2:2020
-SC-22,Sen Lwi,,1,ISO 3166-2:2020
+SC-22,Sen Lwi,crs,1,ISO 3166-2:2020
 SC-22,Saint Louis,en,1,ISO 3166-2:2020
 SC-22,Saint-Louis,fr,1,ISO 3166-2:2020
-SC-23,Takamaka,,1,ISO 3166-2:2020
+SC-23,Takamaka,crs,1,ISO 3166-2:2020
 SC-23,Takamaka,en,1,ISO 3166-2:2020
 SC-23,Takamaka,fr,1,ISO 3166-2:2020
-SC-24,Lemamel,,1,ISO 3166-2:2020
+SC-24,Lemamel,crs,1,ISO 3166-2:2020
 SC-24,Les Mamelles,en,1,ISO 3166-2:2020
 SC-24,Les Mamelles,fr,1,ISO 3166-2:2020
-SC-25,Ros Kaiman,,1,ISO 3166-2:2020
+SC-25,Ros Kaiman,crs,1,ISO 3166-2:2020
 SC-25,Roche Caiman,en,1,ISO 3166-2:2020
 SC-25,Roche Caïman,fr,1,ISO 3166-2:2020
 SC-26,Ile Perseverance I,en,1,ISO 3166-2:2020
@@ -5703,32 +5703,32 @@ TJ-GB,Kŭhistoni Badakhshon,tg,1,ISO 3166-2:2020
 TJ-DU,Dushanbe,tg,1,ISO 3166-2:2020
 TJ-RA,nohiyahoi tobei jumhurí,tg,1,ISO 3166-2:2020
 TL-AL,Aileu,pt,1,ISO 3166-2:2020
-TL-AL,Aileu,,1,ISO 3166-2:2020
+TL-AL,Aileu,tet,1,ISO 3166-2:2020
 TL-AN,Ainaro,pt,1,ISO 3166-2:2020
-TL-AN,Ainaru,,1,ISO 3166-2:2020
+TL-AN,Ainaru,tet,1,ISO 3166-2:2020
 TL-BA,Baucau,pt,1,ISO 3166-2:2020
-TL-BA,Baukau,,1,ISO 3166-2:2020
+TL-BA,Baukau,tet,1,ISO 3166-2:2020
 TL-BO,Bobonaro,pt,1,ISO 3166-2:2020
-TL-BO,Bobonaru,,1,ISO 3166-2:2020
+TL-BO,Bobonaru,tet,1,ISO 3166-2:2020
 TL-CO,Cova Lima,pt,1,ISO 3166-2:2020
-TL-CO,Kovalima,,1,ISO 3166-2:2020
+TL-CO,Kovalima,tet,1,ISO 3166-2:2020
 TL-DI,Díli,pt,1,ISO 3166-2:2020
-TL-DI,Díli,,1,ISO 3166-2:2020
+TL-DI,Díli,tet,1,ISO 3166-2:2020
 TL-ER,Ermera,pt,1,ISO 3166-2:2020
-TL-ER,Ermera,,1,ISO 3166-2:2020
+TL-ER,Ermera,tet,1,ISO 3166-2:2020
 TL-LA,Lautém,pt,1,ISO 3166-2:2020
-TL-LA,Lautein,,1,ISO 3166-2:2020
+TL-LA,Lautein,tet,1,ISO 3166-2:2020
 TL-LI,Liquiça,pt,1,ISO 3166-2:2020
-TL-LI,Likisá,,1,ISO 3166-2:2020
+TL-LI,Likisá,tet,1,ISO 3166-2:2020
 TL-MF,Manufahi,pt,1,ISO 3166-2:2020
-TL-MF,Manufahi,,1,ISO 3166-2:2020
+TL-MF,Manufahi,tet,1,ISO 3166-2:2020
 TL-MT,Manatuto,pt,1,ISO 3166-2:2020
-TL-MT,Manatutu,,1,ISO 3166-2:2020
+TL-MT,Manatutu,tet,1,ISO 3166-2:2020
 TL-VI,Viqueque,pt,1,ISO 3166-2:2020
-TL-VI,Vikeke,,1,ISO 3166-2:2020
+TL-VI,Vikeke,tet,1,ISO 3166-2:2020
 TL-OE,Oé-Cusse Ambeno,pt,1,ISO 3166-2:2020
 TL-OE,Oecussi,pt,0,ISO 3166-2:2020
-TL-OE,Oekusi-Ambenu,,1,ISO 3166-2:2020
+TL-OE,Oekusi-Ambenu,tet,1,ISO 3166-2:2020
 TM-S,Aşgabat,tk,1,ISO 3166-2:2020
 TM-A,Ahal,tk,1,ISO 3166-2:2020
 TM-B,Balkan,tk,1,ISO 3166-2:2020
@@ -6355,7 +6355,7 @@ YE-TA,Tāʻizz,ar,1,ISO 3166-2:2020
 ZA-EC,Oos-Kaap,af,1,ISO 3166-2:2020
 ZA-EC,Eastern Cape,en,1,ISO 3166-2:2020
 ZA-EC,iPumalanga-Kapa,nr,1,ISO 3166-2:2020
-ZA-EC,Kapa Bohlabela,,1,ISO 3166-2:2020
+ZA-EC,Kapa Bohlabela,nso,1,ISO 3166-2:2020
 ZA-EC,Kapa Botjhabela,st,1,ISO 3166-2:2020
 ZA-EC,Kapa Botlhaba,tn,1,ISO 3166-2:2020
 ZA-EC,Kapa-Vuxa,ts,1,ISO 3166-2:2020
@@ -6366,7 +6366,7 @@ ZA-EC,Mpumalanga-Koloni,zu,0,ISO 3166-2:2020
 ZA-FS,Vrystaat,af,1,ISO 3166-2:2020
 ZA-FS,Free State,en,1,ISO 3166-2:2020
 ZA-FS,iFreyistata,nr,1,ISO 3166-2:2020
-ZA-FS,Freistata,,1,ISO 3166-2:2020
+ZA-FS,Freistata,nso,1,ISO 3166-2:2020
 ZA-FS,Freistata,st,1,ISO 3166-2:2020
 ZA-FS,Foreisetata,st,0,ISO 3166-2:2020
 ZA-FS,Foreisetata,tn,1,ISO 3166-2:2020
@@ -6378,7 +6378,7 @@ ZA-FS,Freyisitata,zu,0,ISO 3166-2:2020
 ZA-GP,Gauteng,af,1,ISO 3166-2:2020
 ZA-GP,Gauteng,en,1,ISO 3166-2:2020
 ZA-GP,iGauteng,nr,1,ISO 3166-2:2020
-ZA-GP,Gauteng,,1,ISO 3166-2:2020
+ZA-GP,Gauteng,nso,1,ISO 3166-2:2020
 ZA-GP,Kgauteng,st,1,ISO 3166-2:2020
 ZA-GP,Gauteng,ss,1,ISO 3166-2:2020
 ZA-GP,Gauteng,tn,1,ISO 3166-2:2020
@@ -6389,7 +6389,7 @@ ZA-GP,Gauteng,zu,1,ISO 3166-2:2020
 ZA-KZN,KwaZulu-Natal,af,1,ISO 3166-2:2020
 ZA-KZN,Kwazulu-Natal,en,1,ISO 3166-2:2020
 ZA-KZN,iKwaZulu-Natal,nr,1,ISO 3166-2:2020
-ZA-KZN,GaZulu-Natala,,1,ISO 3166-2:2020
+ZA-KZN,GaZulu-Natala,nso,1,ISO 3166-2:2020
 ZA-KZN,Hazolo-Natala,st,1,ISO 3166-2:2020
 ZA-KZN,KwaZulu-Natali,ss,1,ISO 3166-2:2020
 ZA-KZN,KwaZulu-Natal,tn,1,ISO 3166-2:2020
@@ -6400,7 +6400,7 @@ ZA-KZN,KwaZulu-Natali,zu,1,ISO 3166-2:2020
 ZA-LP,Limpopo,af,1,ISO 3166-2:2020
 ZA-LP,Limpopo,en,1,ISO 3166-2:2020
 ZA-LP,Limpopo,nr,1,ISO 3166-2:2020
-ZA-LP,Limpopo,,1,ISO 3166-2:2020
+ZA-LP,Limpopo,nso,1,ISO 3166-2:2020
 ZA-LP,Limpopo,st,1,ISO 3166-2:2020
 ZA-LP,Limpopo,ss,1,ISO 3166-2:2020
 ZA-LP,Limpopo,tn,1,ISO 3166-2:2020
@@ -6411,7 +6411,7 @@ ZA-LP,Limpopo,zu,1,ISO 3166-2:2020
 ZA-MP,Mpumalanga,af,1,ISO 3166-2:2020
 ZA-MP,Mpumalanga,en,1,ISO 3166-2:2020
 ZA-MP,iMpumalanga,nr,1,ISO 3166-2:2020
-ZA-MP,Mpumalanga,,1,ISO 3166-2:2020
+ZA-MP,Mpumalanga,nso,1,ISO 3166-2:2020
 ZA-MP,Mpumalanga,st,1,ISO 3166-2:2020
 ZA-MP,Mpumalanga,ss,1,ISO 3166-2:2020
 ZA-MP,Mpumalanga,tn,1,ISO 3166-2:2020
@@ -6422,7 +6422,7 @@ ZA-MP,Mpumalanga,zu,1,ISO 3166-2:2020
 ZA-NC,Noord-Kaap,af,1,ISO 3166-2:2020
 ZA-NC,Northern Cape,en,1,ISO 3166-2:2020
 ZA-NC,iTlhagwini-Kapa,nr,1,ISO 3166-2:2020
-ZA-NC,Kapa Leboya,,1,ISO 3166-2:2020
+ZA-NC,Kapa Leboya,nso,1,ISO 3166-2:2020
 ZA-NC,Kapa Leboya,st,1,ISO 3166-2:2020
 ZA-NC,Kapa Bokone,tn,1,ISO 3166-2:2020
 ZA-NC,Kapa Leboa,tn,0,ISO 3166-2:2020
@@ -6434,7 +6434,7 @@ ZA-NC,Nyakatho-Koloni,zu,0,ISO 3166-2:2020
 ZA-NW,Noordwes,af,1,ISO 3166-2:2020
 ZA-NW,North-West,en,1,ISO 3166-2:2020
 ZA-NW,iTlhagwini-Tjhingalanga,nr,1,ISO 3166-2:2020
-ZA-NW,Lebowa Bodikela,,1,ISO 3166-2:2020
+ZA-NW,Lebowa Bodikela,nso,1,ISO 3166-2:2020
 ZA-NW,Leboya (le) Bophirima,st,1,ISO 3166-2:2020
 ZA-NW,Bokone Bophirima,tn,1,ISO 3166-2:2020
 ZA-NW,N'walungu-Vupeladyambu,ts,1,ISO 3166-2:2020
@@ -6443,7 +6443,7 @@ ZA-NW,Nyakatho-Ntshonalanga,zu,1,ISO 3166-2:2020
 ZA-WC,Wes-Kaap,af,1,ISO 3166-2:2020
 ZA-WC,Western Cape,en,1,ISO 3166-2:2020
 ZA-WC,iTjhingalanga-Kapa,nr,1,ISO 3166-2:2020
-ZA-WC,Kapa Bodikela,,1,ISO 3166-2:2020
+ZA-WC,Kapa Bodikela,nso,1,ISO 3166-2:2020
 ZA-WC,Kapa Bophirimela,st,1,ISO 3166-2:2020
 ZA-WC,Kapa Bophirima,tn,1,ISO 3166-2:2020
 ZA-WC,Kapa-Vupeladyambu,ts,1,ISO 3166-2:2020
