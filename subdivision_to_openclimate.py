@@ -78,16 +78,26 @@ def generate_names(subdivision_names):
 
     return actor_names
 
+def generate_ids(subdivisions):
+    return list(map(lambda subdivision: {
+            "actor_id": subdivision['subdivision_code'],
+            "identifier": subdivision['subdivision_code'],
+            "namespace": 'ISO-3166-2',
+            "datasource_id": DATASOURCE['datasource_id']
+        }, subdivisions))
+
 def main():
     subdivisions = slurp_file('subdivisions')
     subdivision_names = slurp_file('subdivision-names')
 
     actors = generate_actors(subdivisions, subdivision_names)
     actor_names = generate_names(subdivision_names)
+    actor_ids = generate_ids(subdivisions)
 
     write_csv('DataSource', [DATASOURCE])
     write_csv('Actor', actors)
     write_csv('ActorName', actor_names)
+    write_csv('ActorIdentifier', actor_ids)
 
 if __name__ == "__main__":
     main()
